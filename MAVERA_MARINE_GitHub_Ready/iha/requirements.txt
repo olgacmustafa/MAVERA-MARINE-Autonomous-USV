@@ -1,0 +1,6 @@
+# Install CUDA-compatible torch/torchvision using the Jetson/JetPack vendor instructions.
+# python3-gi, gstreamer1.0-tools, v4l-utils and Jetson.GPIO may require system packages.
+ultralytics
+numpy
+opencv-python
+pymavlink
