@@ -23,5 +23,5 @@ Bu depo dört kullanıcı dosyasından düzenlendi: İHA kamera yazılımı, YK�
 ## Pakette bulunmayanlar
 
 - Jetson servis/systemd tanımları ve cihaza özgü işletim sistemi ayarları.
-- İHA plaka algılama modeli: proje sahibinin `iha/models/best.pt` yoluna ayrıca yerleştirmesi gerekir.
+- İHA plaka algılama modeli:  `iha/models/best.pt` yoluna ayrıca yerleştirmesi gerekir.
 - Üçüncü taraf SDK kaynak kopyaları ve derlenmiş ROS çalışma alanı çıktıları.
